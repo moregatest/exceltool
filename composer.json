@@ -1,0 +1,14 @@
+{
+    "name": "moregatest/exceltool",
+    "type": "project",
+    "require": {
+        "nategood/commando": "^0.2.9",
+        "katzgrau/klogger": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Tung Alexander",
+            "email": "twe.alexander@gmail.com"
+        }
+    ]
+}
